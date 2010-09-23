@@ -19,7 +19,7 @@ require 'hydrogen_bondifier/utils'
 require 'bio/db/pdb'
 
 # Local (User) library
-require 'ryan_lib'
+require 'linker_class'
 require 'binary_search'
 
 # Constants

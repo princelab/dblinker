@@ -1,4 +1,4 @@
-require 'lib/pymol'
+require 'pymol'
 
 class Pymol
   module Connections

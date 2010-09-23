@@ -1,5 +1,5 @@
-require 'lib/pymol'
-require 'lib/pymol/orientation'
+require 'pymol'
+require 'pymol/orientation'
 
 class Pymol
   module Surface
