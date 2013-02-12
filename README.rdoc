@@ -1,4 +1,5 @@
 = dblinker
+First, bundle install to get everything set up. (Let me know if I missed anything)
 
 Run the crosslink analysis with ruby lib/dblinker.rb.
 
