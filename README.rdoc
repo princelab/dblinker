@@ -1,6 +1,10 @@
 = dblinker
 
-Description goes here.
+Run the crosslink analysis with ruby lib/dblinker.rb.
+
+You can then take the <file>.xlink.yml and graph it in pymol with the gen_img_scrpt.rb file.  
+
+Good luck!
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +18,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Ryan Taylor. See LICENSE for details.
+Copyright (c) 2010 BYU. See LICENSE for details.

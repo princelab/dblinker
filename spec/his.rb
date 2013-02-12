@@ -34,7 +34,7 @@ require 'simpler'
 hist_dist = Simpler.new
 # range = (3..200).to_a
 hist_dist.with(dist) do |x|
-	%Q{pdf(file="/home/ryanmt/Dropbox/coding/db_linker/dist.pdf", height=8, width=5)
+	%Q{pdf(file="/home/ryanmt/Dropbox/coding/dblinker/spec/dist.pdf", height=8, width=5)
 	hist(#{x}, breaks=100,
 	ylab = "Counts",
 	xlab = "Length in Angstroms",
